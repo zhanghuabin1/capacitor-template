@@ -1,0 +1,11 @@
+{
+  "appId": "com.pixocial.snapid.miniapp",
+  "appName": "snapid-miniapp",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
